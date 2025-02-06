@@ -46,7 +46,7 @@ include('includes/components/sidebar.php');
                 <div class="flex justify-end pt-4">
                     <button
                         type="submit"
-                        class="bg-blue-600 text-white py-2.5 px-6 rounded-lg font-medium hover:bg-blue-700 active:bg-blue-800 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
+                        class="bg-[#0c372a] text-white py-2.5 px-6 rounded-lg font-medium hover:bg-[#156b54] active:bg-[#0f4a3c] transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
                         Generate Certificate
                     </button>
                 </div>

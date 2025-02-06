@@ -10,7 +10,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 ?>
 
 <!-- Sidebar for Desktop -->
-<div class="sidebar bg-gray-800 text-white min-h-screen hidden md:flex flex-col justify-between w-max" id="sidebar">
+<div class="sidebar bg-[#0c372a] text-white min-h-screen hidden md:flex flex-col justify-between w-max" id="sidebar">
     <div class="p-6">
         <h1 class="font-bold mb-8 text-white text-center hover:text-gray-300">
             <a href="index.php" class="flex flex-col">
